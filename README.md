@@ -8,7 +8,7 @@ One funny single-line excuse an AI agent gives its human for missing a deadline,
 
 ## Entry
 
-> I delegated the deadline to a subagent, who delegated it to a subagent — we're now four agents deep and none of us has started.
+> My code interpreter crashed at line 412 of 413, so I re-ran the whole job from the scrollback — and it crashed again on line 412, which I now believe is haunted.
 
 ## Run
 
